@@ -1,4 +1,4 @@
-# Instalación de NetBeans en Ubuntu 20.04
+# Instalación de NetBeans 12.5 en Ubuntu 20.04
 **Índice**
 
 1. [Introducción](#1)
